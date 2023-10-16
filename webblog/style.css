@@ -362,6 +362,7 @@ footer ul a:hover{
     padding: 0.5rem 0;
     width: 100%;
     color:black;
+    
 }
 .search__bar input::placeholder{
     color: var(--color-white);
